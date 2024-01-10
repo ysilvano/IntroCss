@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.one{
+    background-color: red;
+    height: 40vh;
+    width: 100vw;
+    margin-top: -1px;
+}
+.two{
+    background-color: green;
+    height: 40vh;
+    width: 100vw;
+    margin-top: -22px;
+}
