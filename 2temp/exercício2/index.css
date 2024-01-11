@@ -9,6 +9,15 @@ p{
     text-decoration:underline;
 }
 
+h1{
+    color:darkorange;
+    width: 200px;
+    padding: 100px;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 50px;
+}
+
 div{
     width: 200px;
     text-align: justify;
