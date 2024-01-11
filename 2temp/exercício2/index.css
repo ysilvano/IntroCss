@@ -19,6 +19,7 @@ h1{
 }
 
 div{
-    width: 200px;
+    width: 300px;
     text-align: justify;
+    padding: 200px;
 }
