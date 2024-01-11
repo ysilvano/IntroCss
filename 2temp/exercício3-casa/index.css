@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
+
+body{
+    background-color:beige;
+}
+    
+h1{
+    color: #0202fdd1;
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+ /*ajustar daqui pra frente, aqui é só o esqueleto*/
+
+.one{
+    color: #000000c7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: -2px;    
+}
+
+.two{
+    color: black;
+}
+
+
+
