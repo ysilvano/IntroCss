@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+p{
+    color: purple;
+    font-family: 'Salsa', cursive;
+    font-size: 12px;
+    font-weight:lighter;
+    font-style:italic;
+    text-decoration:underline;
+}
+
+div{
+    width: 200px;
+    text-align: justify;
+}
