@@ -13,6 +13,12 @@ body{
     background-color: #313958;
 }
 
+html{
+    background-image: linear-gradient (to right botton, #270537, #370d5d, #411b88, #3e2db7, #1242eb);
+    background-repeat: no-repeat;
+    height: 100vh;    
+}
+
 .container{
     margin: 40vw;
     height: 50vh;
@@ -31,9 +37,8 @@ input{
     background-color: #2b2b3d;
     width: 25vw;
     height: 6vh;
-    border-radius: 5%;
-    border: #000000;
-
+    border-radius: 5px;
+    border: 1px solid #00000080;
 }
 
 .box{
@@ -45,7 +50,7 @@ button{
     width: 26vw;
     height: 7vh;
     margin-left: 6vw;
-    margin-top: 3vw;
+    margin-top: 3vh;
     border-radius: 5px;
     background-color: #5a93d8;
     color: white;
